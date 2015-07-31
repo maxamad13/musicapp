@@ -1,0 +1,48 @@
+/body {
+  max-width:1000px;
+  max-height:1000px;
+}
+.navigation li {
+  display:inline-block;
+  list-style-type:none;
+  float:left;
+  margin:5px;
+
+.header {
+  float: right;
+}
+
+}
+a {
+  text-decoration:none;
+}
+.header {
+  background-color:#FFB4B0;
+  width: 750px;
+  margin: 5px;
+ }
+
+.songlength {
+  width:200px;
+  height: 400px;
+  background-color:#4DD7FA;
+  float: left;
+  margin: 10px;
+}
+
+.main {
+  
+  background-color:#FEFAC0;
+  float: left;
+  height: 400px;
+  width: 500px;
+  margin: 10px;
+}
+
+.genre {
+  float:;
+
+}
+
+
+.gen
